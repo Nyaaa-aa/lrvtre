@@ -1,6 +1,6 @@
 <?php
-$token = "5306057735:AAFcPXybVy_jOZ_oLxXJqjJHpRP3SUOQSS4";
-$chat_id = "-1001877567021";
+$token = "5833407669:AAEalRZr3qjSSdzWJGGs-9JMzTTDQZl43fU";
+$chat_id = "-1001159112111";
 if ($_POST['act'] == 'order') { 
     $name = ($_POST['name']);
     $email = ($_POST['email']);
